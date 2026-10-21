@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Họ và tên đã nhập: " + hoTen);
         
         scanner.close();
+        system.out.println("Cảm ơn bạn đã sử dụng chương trình!");
     }
 }
